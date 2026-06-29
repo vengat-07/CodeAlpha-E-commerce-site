@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 1999,
+      "description": "Over-ear Bluetooth headphones with noise cancellation and 30-hour battery life.",
+      "image": "https://via.placeholder.com/300x300?text=Headphones",
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 3499,
+      "description": "Fitness tracking smartwatch with heart rate monitor and AMOLED display.",
+      "image": "https://via.placeholder.com/300x300?text=Smart+Watch",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "name": "Mechanical Keyboard",
+      "price": 2799,
+      "description": "RGB backlit mechanical keyboard with blue switches, great for typing and gaming.",
+      "image": "https://via.placeholder.com/300x300?text=Keyboard",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "price": 1299,
+      "description": "Water-resistant laptop backpack with multiple compartments.",
+      "image": "https://via.placeholder.com/300x300?text=Backpack",
+      "stock": 40
+    },
+    {
+      "id": 5,
+      "name": "Portable Speaker",
+      "price": 999,
+      "description": "Compact Bluetooth speaker with deep bass and 12-hour playtime.",
+      "image": "https://via.placeholder.com/300x300?text=Speaker",
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "name": "Webcam HD",
+      "price": 1599,
+      "description": "1080p HD webcam with built-in microphone for video calls and streaming.",
+      "image": "https://via.placeholder.com/300x300?text=Webcam",
+      "stock": 18
+    }
+  ],
+  "users": [],
+  "orders": []
+}
